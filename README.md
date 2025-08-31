@@ -1,43 +1,50 @@
 # QA-Portfolio-AcademyBugs
-This repository showcases my QA portfolio project for the AcademyBugs e-commerce site. I created and executed detailed test cases in Qase.io,  bugs and tasks in Jira, and validated critical user flows such as product search, cart management, and checkout. The project demonstrates my approach to structured manual testing and documentation.
-# QA Portfolio - AcademyBugs Project
-
-This repository showcases my manual QA work for the [AcademyBugs](https://academybugs.com/) e-commerce demo website.  
-The goal of this project was to design, execute, and document structured manual testing for core e-commerce functionalities such as product search, cart, and checkout.
-
+This repository showcases my manual QA work for the [AcademyBugs](https://academybugs.com/find-bugs/) demo e-commerce site. I created and executed detailed test cases in Qase.io,  bugs and tasks in Jira, and validated critical user flows such as product search, cart management, and checkout. The project demonstrates my approach to structured manual testing and documentation. 
+  
 ---
 
 ## 📋 Project Scope
-- Functional testing of e-commerce flows
-- Test case design and execution (Qase.io)
-- Bug reporting and task management (Jira)
-- Negative testing (form validations, missing fields)
-- Checkout and cart validation
+- Manual functional testing of an e-commerce site  
+- Test case design and execution (**Qase.io**)  
+- Bug reporting and task management (**Jira**)  
+- Negative testing (form validation, missing fields)  
+- Validation of cart, checkout, and product details  
 
 ---
 
 ## 📂 Repository Structure
-- **Test-Cases/** → Detailed test cases designed and executed in Qase.io  
-- **Bug-Reports/** → Bug reports created during testing, exported from Jira  
-- **Jira-Tasks/** → Sample Jira tasks for QA workflow demonstration  
-- **Screenshots/** → Supporting screenshots of critical test steps  
+- **/Test-Cases/** → [Product Page Test Cases (Qase.io Export)](Test-Cases/Product%20Page.pdf)  
+- **/Bug-Reports/** → Bug reports created during testing (from Jira)  
+- **/Screenshots/** → Supporting screenshots of cart, checkout, and product pages  
 
 ---
 
 ## ✅ Tools Used
-- Qase.io → Test case management  
-- Jira → Bug tracking and task management  
-- AcademyBugs → Demo e-commerce website  
+- **Qase.io** → Test case management  
+- **Jira** → Bug tracking and task management  
+- **AcademyBugs** → Demo e-commerce website  
 
 ---
 
 ## 🚀 Key Highlights
-- Created and executed >20 test cases covering shopping cart and checkout  
-- Logged bugs with detailed reproduction steps and screenshots  
-- Validated order confirmation, error handling, and form validations  
-- Produced complete QA documentation suitable for real-world projects  
+- Designed and executed **20+ structured test cases** in Qase.io  
+- Logged detailed bug reports in Jira with clear repro steps and screenshots  
+- Validated product listing, cart, and checkout processes end-to-end  
+- Documented negative test scenarios (invalid inputs, missing mandatory fields)  
+- Created a fully reproducible QA case study  
+
+---
+
+## 🖼️ Screenshots Preview  
+
+### 🛒 Cart Page
+![Cart Page](Screenshots/Cart.png)
+
+### 💳 Checkout Page
+![Checkout Page](Screenshots/Checkout.png)
 
 ---
 
 ## 📧 Contact
-If you'd like to connect, feel free to reach me here on GitHub or via LinkedIn.
+If you'd like to connect, feel free to reach out on **GitHub** or via **LinkedIn**.  
+
