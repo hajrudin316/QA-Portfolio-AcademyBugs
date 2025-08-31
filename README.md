@@ -1,4 +1,4 @@
-# Hajro Emir – QA Portfolio
+QA Portfolio
 
 ## 👋 About Me
 I am a **manual QA tester** with experience in testing web applications and e-commerce platforms.  
