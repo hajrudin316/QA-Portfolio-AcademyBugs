@@ -51,24 +51,23 @@ My approach combines a **detail-oriented mindset** with a strong understanding o
 
 
 ---
-
 ## 📁 Samples
 
 ### 1️⃣ AcademyBugs Project
-**Manual QA testing of a demo e-commerce website**  
+**Manual & Automated QA testing of a demo e-commerce website**  
 
 **Project Overview:**  
-This project demonstrates my ability to design, execute, and document structured manual testing for key e-commerce functionalities, including product listings, shopping cart, and checkout flows.  
+This project demonstrates my ability to design, execute, and document structured QA testing for key e-commerce functionalities, including product listings, shopping cart, and checkout flows.  
 
 **Repository Structure:**  
-- **/Test-Cases/** → Exported test cases ([PDF link](Test-Cases/Product%20Page.pdf))  
+- **/Test-Cases/** → Exported test cases ([PDF link](Test-Cases/Product_Page.pdf))  
 - **/Bug-Reports/** → Bug reports created during testing  
 - **/Screenshots/** → Supporting screenshots of cart, checkout, and product pages  
 
 **Key Highlights:**  
 - Designed and executed **20+ structured test cases**  
-- Logged detailed bug reports in Jira with clear repro steps and screenshots  
-- Validated product listing, cart, and checkout processes end-to-end  
+- Logged detailed bug reports in Jira with **clear reproduction steps and screenshots**  
+- Validated **product listing, cart, and checkout processes** end-to-end  
 - Documented negative test scenarios (invalid inputs, missing mandatory fields)  
 - Created a fully reproducible QA case study  
 
@@ -76,14 +75,8 @@ This project demonstrates my ability to design, execute, and document structured
 - **Qase.io** → Test case management  
 - **Jira** → Bug tracking  
 - **AcademyBugs** → Demo e-commerce website  
+- **Cypress** → Automation (optional for
 
-**Screenshots Preview:**  
-
-### 🛒 Cart Page
-![Cart Page](Screenshots/Cart.png)
-
-### 💳 Checkout Page
-![Checkout Page](Screenshots/Checkout.png)
 
 ---
 
