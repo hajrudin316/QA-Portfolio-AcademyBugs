@@ -1,41 +1,54 @@
-# QA-Portfolio-AcademyBugs
-This repository showcases my manual QA work for the [AcademyBugs](https://academybugs.com/find-bugs/) demo e-commerce site. I created and executed detailed test cases in Qase.io,  bugs and tasks in Jira, and validated critical user flows such as product search, cart management, and checkout. The project demonstrates my approach to structured manual testing and documentation. 
-  
----
+# Hajro Emir – QA Portfolio
 
-## 📋 Project Scope
-- Manual functional testing of an e-commerce site  
-- Test case design and execution (**Qase.io**)  
-- Bug reporting and task management (**Jira**)  
-- Negative testing (form validation, missing fields)  
-- Validation of cart, checkout, and product details  
+## 👋 About Me
+I am a **manual QA tester** with experience in testing web applications and e-commerce platforms.  
+I enjoy finding bugs, improving user experience, and ensuring that software meets the highest quality standards.
 
 ---
 
-## 📂 Repository Structure
-- **/Test-Cases/** → [Product Page Test Cases (Qase.io Export)](Test-Cases/Product%20Page.pdf)  
-- **/Bug-Reports/** → Bug reports created during testing (from Jira)  
+## 💼 My Experience
+- Manual functional testing of web and e-commerce applications  
+- Test case design, execution, and documentation  
+- Bug reporting and task management using Jira  
+- Negative testing and edge case validation  
+- Working with cross-functional teams to ensure high-quality software delivery  
+
+---
+
+## 🛠️ Tools & Skills I Use
+- **Test Case Management:** Qase.io  
+- **Bug Tracking & Task Management:** Jira  
+- **Testing Techniques:** Manual functional testing, negative testing, exploratory testing  
+- **Other Skills:** Documentation, screenshots, test reporting, reproducing bugs  
+
+---
+
+## 📁 Samples
+
+### 1️⃣ AcademyBugs Project
+**Manual QA testing of a demo e-commerce website**  
+
+**Project Overview:**  
+This project demonstrates my ability to design, execute, and document structured manual testing for key e-commerce functionalities, including product listings, shopping cart, and checkout flows.  
+
+**Repository Structure:**  
+- **/Test-Cases/** → Exported test cases ([PDF link](Test-Cases/Product%20Page.pdf))  
+- **/Bug-Reports/** → Bug reports created during testing  
 - **/Screenshots/** → Supporting screenshots of cart, checkout, and product pages  
 
----
-
-## ✅ Tools Used
-- **Qase.io** → Test case management  
-- **Jira** → Bug tracking and task management  
-- **AcademyBugs** → Demo e-commerce website  
-
----
-
-## 🚀 Key Highlights
-- Designed and executed **20+ structured test cases** in Qase.io  
+**Key Highlights:**  
+- Designed and executed **20+ structured test cases**  
 - Logged detailed bug reports in Jira with clear repro steps and screenshots  
 - Validated product listing, cart, and checkout processes end-to-end  
 - Documented negative test scenarios (invalid inputs, missing mandatory fields)  
 - Created a fully reproducible QA case study  
 
----
+**Tools Used:**  
+- **Qase.io** → Test case management  
+- **Jira** → Bug tracking  
+- **AcademyBugs** → Demo e-commerce website  
 
-## 🖼️ Screenshots Preview  
+**Screenshots Preview:**  
 
 ### 🛒 Cart Page
 ![Cart Page](Screenshots/Cart.png)
@@ -46,5 +59,5 @@ This repository showcases my manual QA work for the [AcademyBugs](https://academ
 ---
 
 ## 📧 Contact
-If you'd like to connect, feel free to reach out on **GitHub** or via **LinkedIn**.  
+Feel free to connect with me on **GitHub** or **LinkedIn**.
 
