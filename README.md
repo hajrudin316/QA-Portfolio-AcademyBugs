@@ -60,7 +60,7 @@ My approach combines a **detail-oriented mindset** with a strong understanding o
 This project demonstrates my ability to design, execute, and document structured QA testing for key e-commerce functionalities, including product listings, shopping cart, and checkout flows.  
 
 **Repository Structure:**  
-- **/Test-Cases/** → Exported test cases (Test-Cases/AB-2025-09-02.pdf) 
+- **/Test-Cases/** → Exported test cases https://github.com/hajrudin316/QA-Portfolio-AcademyBugs/commit/28d40c6012df6d09fa7f1bd34a2d1f1bcfce6bfb#diff-3a153afd31cf906da79f7389ace4de6c94fa4545cd486a6cfb0748c052b555e9
 - **/Bug-Reports/** → Bug reports created during testing  
 - **/Screenshots/** → Supporting screenshots of cart, checkout, and product pages  
 
