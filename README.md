@@ -56,72 +56,36 @@ My approach combines a **detail-oriented mindset** with a strong understanding o
 **Manual & Automated QA testing** of a demo e-commerce website: [https://academybugs.com/find-bugs/#](https://academybugs.com/find-bugs/#)
 
 ### Project Overview
-This project demonstrates my ability to **design, execute, and document structured QA testing** for core e-commerce functionalities, including:
+This project demonstrates my ability to **design, execute, and document structured QA testing** for core e-commerce functionalities:
 - Product listings  
 - Shopping cart  
 - Checkout flows  
 
 ---
 
-## 📝 **Test Cases**
-All test cases are documented and organized in **Qase**.  
-They are divided into **3 main suites** covering the core e-commerce flow:
+### 📝 **Test Cases**
+Structured in **Qase**, divided into 3 suites:
 
-1. **Product Page Suite**  
-   - Verify product display  
-   - Check product details  
-   - "Add to Cart" functionality  
-
-2. **Cart Suite**  
-   - Validate cart updates  
-   - Quantity changes  
-   - Product removal  
-   - Cart totals  
-
-3. **Checkout Suite**  
-   - Billing/shipping information verification  
-   - Mandatory field validations  
-   - Order summary and confirmation  
+- **Product Page:** product display, details, add to cart  
+- **Cart:** updates, quantity changes, removal, totals  
+- **Checkout:** billing/shipping info, mandatory fields, order summary  
 
 **👉 View Full Test Cases in Qase**  
 [Click here to access](https://academybugs.com/find-bugs/#)  
 
 ---
 
-## 🐞 **Bug Reports**
-All **bug reports** created during testing, categorized by module, can be found here:  
-
-- Product page bugs  
-- Cart-related bugs  
-- Checkout process bugs  
+### 🐞 **Bug Reports**
+All bugs reported during testing, categorized by module (product page, cart, checkout).
 
 ---
 
 ### 📊 Project Report
+- **Tools:** Qase, Jira/qTest, Chrome DevTools  
+- **Approach:** Manual + exploratory testing, form & UI validation  
+- **Results:** 25+ test cases executed, 15+ bugs found  
+- **Skills:** Test planning, bug reporting, QA workflow, prioritization  
 
-- **Testing Tools Used:**  
-  - **Qase** – test case management  
-  - **Jira / qTest** – bug tracking  
-  - **Chrome DevTools** – UI & functionality inspection  
-
-- **Testing Approach:**  
-  - Designed structured test cases for main e-commerce workflows  
-  - Executed **manual tests** for all critical functionality  
-  - Validated UI/UX elements and form field validations  
-  - Conducted exploratory testing to uncover edge-case bugs  
-
-- **Results:**  
-  - **Total Test Cases Executed:** 25+  
-  - **Total Bugs Reported:** 15+  
-    - Product page: 5 bugs  
-    - Cart functionality: 4 bugs  
-    - Checkout process: 6 bugs  
-
-- **Skills Demonstrated:**  
-  - Structured test planning and execution  
-  - Bug reporting with clear steps and reproducibility  
-  - Prioritization and documentation of issues  
-  - Familiarity with QA tools and workflow  
  
 
 
