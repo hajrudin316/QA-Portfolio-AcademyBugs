@@ -61,9 +61,19 @@ This project demonstrates my ability to design, execute, and document structured
 
 **Repository Structure:**  
 - **/Test-Cases/**
--  #[ Product Search & Navigation   ](Test-Cases/product_page.pdf.pdf)
--  [Shopping Cart](Test-Cases/shopping_cart.pdf)
--  [Checkout/Payment Page](Test-Cases/checkout_page.pdf)
+## Case Structure  
+
+All created test cases for this project are documented and organized in Qase.  
+The test cases are divided into 3 main suites to cover the core e-commerce flow:  
+
+- **Product Page Suite** → Test cases for verifying product display, product details, and "Add to Cart" functionality.  
+- **Cart Suite** → Test cases for validating cart updates, quantity changes, product removal, and cart totals.  
+- **Checkout Suite** → Test cases for verifying billing/shipping information, mandatory field validations, order summary, and order confirmation.  
+
+You can view the full structured test cases directly in Qase at the following link:  
+
+👉 [View Test Cases in Qase](https://app.qase.io/project/AB)  
+
 -  https://app.qase.io/project/AB
                   
                   
