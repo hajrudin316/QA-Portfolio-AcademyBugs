@@ -97,10 +97,32 @@ All **bug reports** created during testing, categorized by module, can be found 
 
 ---
 
-### Highlights
-- ✅ **Structured test case documentation**  
-- ✅ **Automated and manual QA skills showcased**  
-- ✅ **Clear bug reporting**  
+### 📊 Project Report
+
+- **Testing Tools Used:**  
+  - **Qase** – test case management  
+  - **Jira / qTest** – bug tracking  
+  - **Chrome DevTools** – UI & functionality inspection  
+
+- **Testing Approach:**  
+  - Designed structured test cases for main e-commerce workflows  
+  - Executed **manual tests** for all critical functionality  
+  - Validated UI/UX elements and form field validations  
+  - Conducted exploratory testing to uncover edge-case bugs  
+
+- **Results:**  
+  - **Total Test Cases Executed:** 25+  
+  - **Total Bugs Reported:** 15+  
+    - Product page: 5 bugs  
+    - Cart functionality: 4 bugs  
+    - Checkout process: 6 bugs  
+
+- **Skills Demonstrated:**  
+  - Structured test planning and execution  
+  - Bug reporting with clear steps and reproducibility  
+  - Prioritization and documentation of issues  
+  - Familiarity with QA tools and workflow  
+ 
 
 
 ---
