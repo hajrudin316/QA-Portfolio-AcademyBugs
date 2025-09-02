@@ -54,7 +54,7 @@ My approach combines a **detail-oriented mindset** with a strong understanding o
 ## 📁 Samples
 
 ### 1️⃣ AcademyBugs Project
-**Manual & Automated QA testing of a demo e-commerce website**  
+**Manual & Automated QA testing of a demo e-commerce website**  https://academybugs.com/find-bugs/# 
 
 **Project Overview:**  
 This project demonstrates my ability to design, execute, and document structured QA testing for key e-commerce functionalities, including product listings, shopping cart, and checkout flows.  
