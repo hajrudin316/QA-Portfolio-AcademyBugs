@@ -50,34 +50,63 @@ My approach combines a **detail-oriented mindset** with a strong understanding o
 
 
 
+# 📁 Samples
+
+## 1️⃣ AcademyBugs Project
+**Manual & Automated QA testing** of a demo e-commerce website: [https://academybugs.com/find-bugs/#](https://academybugs.com/find-bugs/#)
+
+### Project Overview
+This project demonstrates my ability to **design, execute, and document structured QA testing** for core e-commerce functionalities, including:
+- Product listings  
+- Shopping cart  
+- Checkout flows  
+
 ---
-## 📁 Samples
 
-### 1️⃣ AcademyBugs Project
-**Manual & Automated QA testing of a demo e-commerce website**  https://academybugs.com/find-bugs/# 
+### 🗂 Repository Structure
 
-**Project Overview:**  
-This project demonstrates my ability to design, execute, and document structured QA testing for key e-commerce functionalities, including product listings, shopping cart, and checkout flows.  
+#### **/TEST-CASES/**  
+All created test cases are documented and organized in **Qase**.  
+Test cases are divided into **3 main suites** to cover the core e-commerce flow:
 
-**Repository Structure:**  
-- **/TEST-CASES/**  
-All created test cases for this project are documented and organized in Qase.  
-The test cases are divided into 3 main suites to cover the core e-commerce flow:  
+1. **Product Page Suite**  
+   - Verify product display  
+   - Check product details  
+   - "Add to Cart" functionality  
 
-- **Product Page Suite** → Test cases for verifying product display, product details, and "Add to Cart" functionality.  
-- **Cart Suite** → Test cases for validating cart updates, quantity changes, product removal, and cart totals.  
-- **Checkout Suite** → Test cases for verifying billing/shipping information, mandatory field validations, order summary, and order confirmation.  
+2. **Cart Suite**  
+   - Validate cart updates  
+   - Quantity changes  
+   - Product removal  
+   - Cart totals  
 
-You can view the full structured test cases directly in Qase at the following link:  
+3. **Checkout Suite**  
+   - Billing/shipping information verification  
+   - Mandatory field validations  
+   - Order summary and confirmation  
 
-👉 [View Test Cases in Qase](https://app.qase.io/project/AB)  
-                  
+**👉 View Full Test Cases in Qase**  
+[Click here to access](https://academybugs.com/find-bugs/#)  
+
+---
+
+#### **/Bug-Reports/**  
+Contains all **bug reports** created during testing, categorized by module.
+
+#### **/Screenshots/**  
+Supporting screenshots of:
+- Product pages  
+- Cart  
+- Checkout  
+
+---
+
+### Highlights
+- ✅ **Structured test case documentation**  
+- ✅ **Automated and manual QA skills showcased**  
+- ✅ **Clear bug reporting with visual evidence**  
 
 
-
-
-- **/Bug-Reports/** → Bug reports created during testing  
-- **/Screenshots/** → Supporting screenshots of cart, checkout, and product pages  
 
 **Key Highlights:**  
 - Designed and executed **20+ structured test cases**  
