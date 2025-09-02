@@ -62,6 +62,8 @@ This project demonstrates my ability to design, execute, and document structured
 **Repository Structure:**  
 - **/Test-Cases/** →   [ 
 Product Search & Navigation   ](Test-Cases/product_page.pdf.pdf)
+Shopping Cart](Test-Cases/shopping_page.pdf)
+
 
 - **/Bug-Reports/** → Bug reports created during testing  
 - **/Screenshots/** → Supporting screenshots of cart, checkout, and product pages  
