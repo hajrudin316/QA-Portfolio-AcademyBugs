@@ -60,9 +60,7 @@ My approach combines a **detail-oriented mindset** with a strong understanding o
 This project demonstrates my ability to design, execute, and document structured QA testing for key e-commerce functionalities, including product listings, shopping cart, and checkout flows.  
 
 **Repository Structure:**  
-- **/Test-Cases/**
-## Case Structure  
-
+- **/Test-Cases/**  
 All created test cases for this project are documented and organized in Qase.  
 The test cases are divided into 3 main suites to cover the core e-commerce flow:  
 
@@ -73,12 +71,7 @@ The test cases are divided into 3 main suites to cover the core e-commerce flow:
 You can view the full structured test cases directly in Qase at the following link:  
 
 👉 [View Test Cases in Qase](https://app.qase.io/project/AB)  
-
--  https://app.qase.io/project/AB
                   
-                  
-
-
 
 
 
