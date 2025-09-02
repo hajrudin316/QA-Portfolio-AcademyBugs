@@ -61,8 +61,8 @@ This project demonstrates my ability to design, execute, and document structured
 
 **Repository Structure:**  
 - **/Test-Cases/** →[ Product Search & Navigation   ](Test-Cases/product_page.pdf.pdf)
-- 
--[Shopping Cart](Test-Cases/shopping_cart.pdf)
+- [Shopping Cart](Test-Cases/shopping_cart.pdf) 
+
 
 
 
