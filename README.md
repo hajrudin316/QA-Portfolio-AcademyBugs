@@ -63,11 +63,9 @@ This project demonstrates my ability to **design, execute, and document structur
 
 ---
 
-### 🗂 Repository Structure
-
-#### **/TEST-CASES/**  
-All created test cases are documented and organized in **Qase**.  
-Test cases are divided into **3 main suites** to cover the core e-commerce flow:
+## 📝 **Test Cases**
+All test cases are documented and organized in **Qase**.  
+They are divided into **3 main suites** covering the core e-commerce flow:
 
 1. **Product Page Suite**  
    - Verify product display  
@@ -90,36 +88,19 @@ Test cases are divided into **3 main suites** to cover the core e-commerce flow:
 
 ---
 
-#### **/Bug-Reports/**  
-Contains all **bug reports** created during testing, categorized by module.
+## 🐞 **Bug Reports**
+All **bug reports** created during testing, categorized by module, can be found here:  
 
-#### **/Screenshots/**  
-Supporting screenshots of:
-- Product pages  
-- Cart  
-- Checkout  
+- Product page bugs  
+- Cart-related bugs  
+- Checkout process bugs  
 
 ---
 
 ### Highlights
 - ✅ **Structured test case documentation**  
 - ✅ **Automated and manual QA skills showcased**  
-- ✅ **Clear bug reporting with visual evidence**  
-
-
-
-**Key Highlights:**  
-- Designed and executed **20+ structured test cases**  
-- Logged detailed bug reports in Jira with **clear reproduction steps and screenshots**  
-- Validated **product listing, cart, and checkout processes** end-to-end  
-- Documented negative test scenarios (invalid inputs, missing mandatory fields)  
-- Created a fully reproducible QA case study  
-
-**Tools Used:**  
-- **Qase.io** → Test case management  
-- **Jira** → Bug tracking  
-- **AcademyBugs** → Demo e-commerce website  
-- **Cypress** → Automation (optional for
+- ✅ **Clear bug reporting**  
 
 
 ---
