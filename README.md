@@ -76,9 +76,9 @@ Structured in **Qase**, divided into 3 suites:
 ---
 
 ### 🐞 **Bug Reports**
-- [User Stories & Tasks](./Test-Cases/user_stories_tasks.pdf.pdf) 
-All bugs reported during testing, categorized by module (product page, cart, checkout).
-- https://qacademy123.atlassian.net/jira/software/projects/ABP/boards/36
+- [User Stories & Tasks](./Test-Cases/user_stories_tasks.pdf.pdf)
+- - [Bug Reports](./Test-Cases/bug_reports.pdf.pdf)
+
   
 ---
 
