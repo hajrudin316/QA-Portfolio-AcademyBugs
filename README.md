@@ -88,7 +88,10 @@ Structured in **Qase**, divided into 3 suites:
 - **Results:** 25+ test cases executed, 15+ bugs found  
 - **Skills:** Test planning, bug reporting, QA workflow, prioritization  
 
- 
+
+ POSTMAN
+[Download my Portfolio](assets/portfolio.pdf)
+
 
 
 ---
