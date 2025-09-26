@@ -90,7 +90,7 @@ Structured in **Qase**, divided into 3 suites:
 
 
  POSTMAN
-[Download my Portfolio](assets/portfolio.pdf)
+[DummyJson Project](./Test-Cases/postman.pdf.pdf)
 
 
 
