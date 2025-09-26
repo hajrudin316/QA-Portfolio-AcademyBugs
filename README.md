@@ -91,14 +91,14 @@ Structured in **Qase**, divided into 3 suites:
 
 ---
 ## 2️⃣ Postman - DummyJSON API
-**API testing & CRUD operations** demonstration using Postman to showcase my skills.
 
 ### Project Overview
 This collection highlights my ability to **design, execute, and document API tests**, including:  
 - CRUD operations (Create, Read, Update, Delete)  
 - Writing automated test cases in Postman  
-- Validating responses and data integrity  
-[DummyJson Project](./Test-Cases/Postman.pdf.pdf)
+- Validating responses and data integrity
+-   
+CLICK HERE [DummyJson Project](./Test-Cases/Postman.pdf.pdf)
 
 
 
