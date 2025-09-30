@@ -98,7 +98,7 @@ This collection highlights my ability to **design, execute, and document API tes
 - Writing automated test cases in Postman  
 - Validating responses and data integrity
 -   
-CLICK HERE [DummyJson Project](./Test-Cases/Postman.pdf.pdf)
+CLICK HERE [DummyJson Project](./POSTMAN/Postman.pdf.pdf)
 
 
 
