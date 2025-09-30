@@ -71,7 +71,7 @@ Structured in **Qase**, divided into 3 suites:
 - **Checkout:** billing/shipping info, mandatory fields, order summary  
 
 **👉 View Full Test Cases in Qase**  
-[Click here to access](https://academybugs.com/find-bugs/#)  
+[Click here to access](./MANUAL%20TESTING/)  
 
 ---
 
