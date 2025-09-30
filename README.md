@@ -76,8 +76,8 @@ Structured in **Qase**, divided into 3 suites:
 ---
 
 ### 🐞 **Bug Reports**
-- [User Stories & Tasks](./MANUALTESTING/user_stories_tasks.pdf.pdf)
-- [Bug Reports](./MANUALTESTING/bug_reports.pdf.pdf)
+- [User Stories & Tasks](./MANUAL TESTING/user_stories_tasks.pdf.pdf)
+- [Bug Reports](./MANUAL TESTING/bug_reports.pdf.pdf)
 
   
 ---
