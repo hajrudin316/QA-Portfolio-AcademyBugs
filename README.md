@@ -71,14 +71,10 @@ Structured in **Qase**, divided into 3 suites:
 - **Checkout:** billing/shipping info, mandatory fields, order summary  
 
 **👉 View Full Test Cases in Qase**  
-[Click here to access](./MANUAL%20TESTING/checkout_page.pdf)  
-checkout_page.pdf
-Rename checkout_page.pdf to checkout_page.pdf
-28 minutes ago
-product_page.pdf.pdf
-Rename product_page.pdf.pdf to product_page.pdf.pdf
-27 minutes ago
-shopping_cart.pdf
+[Checkout_Page](./MANUAL%20TESTING/checkout_page.pdf)  
+- [Product Page](./MANUAL%20TESTING/product_page.pdf.pdf)
+- [Shopping_Cart](./MANUAL%20TESTING/shopping_cart.pdf)
+
 ---
 
 ### 🐞 **Bug Reports**
