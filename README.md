@@ -1,16 +1,32 @@
 # 🌟 QA Portfolio by Hajrudin Karajčić  
 
-Welcome to my **Quality Assurance Portfolio** — a collection of my practical projects, test documentation, and automation work.  
+Welcome to my **Quality Assurance Portfolio** —  
 Here I showcase my QA testing skills through **manual testing, API testing, database validation, and test automation** with Cypress.
 
 ---
+## 💼 Experience & Skills  
 
-## 👨‍💻 About Me  
+I have completed a **6-month intensive QA course**, where I gained strong practical experience. 
+Throughout the training, I worked on **real-world simulation projects** that included test documentation, bug reporting, and automation in professional QA workflows.  
+ ### 
+ 
+🧠 Technical Skills
 
-I’m **Hajrudin Karajčić**, a passionate and detail-oriented **QA Engineer** dedicated to improving product quality through structured testing, precise documentation, and analytical thinking.  
+- REST API testing  
+- ISTQB Foundation Level knowledge  
+- Basic knowledge about software development models (Waterfall, V-Model, Iterative, Incremental, Agile)  
+- Software testing  
+- Creating test cases  
+- Reporting bugs  
+- Creating bug reports  
+- Basic Python – for test automation  
+- Basic HTML and CSS  
+- Creating documentation  
+- Experience with testing SaaS web applications  
+- Performing smoke tests  
+- Testing UAT  
+- Scrum workflow  
 
-My goal is to create reliable and efficient testing processes that ensure smooth user experience and bug-free software.  
-I enjoy problem-solving, learning new tools, and exploring how technology can be tested more effectively.  
 
 ---
 
@@ -18,9 +34,9 @@ I enjoy problem-solving, learning new tools, and exploring how technology can be
 
 | Category | Tools Used |
 |-----------|-------------|
-| **Manual Testing** | Qase.io, Jira, TestRail, Excel |
-| **API Testing** | Postman, Swagger, JSON, Newman |
-| **Automation Testing** | Cypress, JavaScript, Mocha, Chai |
+| **Manual Testing** | Qase.io, Jira, Excel |
+| **API Testing** | Postman, JSON,  |
+| **Automation Testing** | Cypress, JavaScript, AI testing |
 | **Database Testing** | DB Browser, SQLite, MySQL, SQL |
 | **Version Control** | Git, GitHub |
 | **Other** | Chrome DevTools, VS Code |
