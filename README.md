@@ -101,17 +101,6 @@ Folder: **`/Cypress-Testing`**
 
 ---
 
-## 🧠 QA Skills Demonstrated  
-
-✔ Writing and maintaining detailed test cases and reports  
-✔ Detecting, reproducing, and documenting bugs  
-✔ Validating APIs using Postman and JavaScript assertions  
-✔ Writing SQL queries for backend data validation  
-✔ Building maintainable Cypress automation frameworks  
-✔ Collaborating in QA processes with Agile methodology  
-
----
-
 
 ### 🌱 Currently Learning  
 
