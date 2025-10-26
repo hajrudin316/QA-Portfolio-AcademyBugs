@@ -20,8 +20,6 @@ I enjoy exploring how products work, finding issues, and helping teams deliver *
 
 ---
 
-## 💼 Tools & Skills
-
 ### 🧠 Technical Skills
 - **REST API testing**  
 - **ISTQB Foundation Level** knowledge  
