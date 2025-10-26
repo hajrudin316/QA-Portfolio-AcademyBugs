@@ -21,18 +21,21 @@ I enjoy exploring how products work, finding issues, and helping teams deliver *
 ---
 
 ### 🧠 Technical Skills
-- **REST API testing**  
-- **ISTQB Foundation Level** knowledge  
-- **Basic understanding of software development models** (Waterfall, V-Model, Iterative, Incremental, Agile)  
-- **Software testing** fundamentals  
-- **Creating and executing test cases**  
-- **Reporting and documenting bugs**  
-- **Basic JavaScript** (for automation and API testing)  
-- **Basic HTML and CSS**  
-- **Creating documentation**  
-- **Experience with testing SaaS web applications**  
-- **Performing smoke tests**  
-- **Scrum workflow**
+
+REST API testing  
+ISTQB Foundation Level knowledge  
+Basic knowledge about software development models (Waterfall, V-Model, Iterative, Incremental, Agile)  
+Software testing  
+Creating test cases  
+Reporting bugs  
+Creating bug reports  
+Basic JavaScript (for automation and API testing)  
+Basic HTML and CSS  
+Creating documentation  
+Experience with testing SaaS web applications  
+Performing smoke tests  
+Scrum workflow  
+
 
 ---
 
