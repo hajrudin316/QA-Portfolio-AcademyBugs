@@ -1,11 +1,15 @@
 # 🌟 QA Portfolio by **Hajrudin Karajčić**
 
-Welcome to my **Quality Assurance Portfolio** 👋  
+Hello, I’m **Hajrudin Karajčić** — a motivated QA Engineer who brings **precision, analytical mindset and a relentless focus on quality**.  
+With a 6-month immersive QA training backed by hands-on projects, I offer real-world testing skills in manual testing, API automation, database validation and UI automation with Cypress.
 
-Hi, my name is **Hajrudin Karajčić**.  
-I have completed a **6-month QA course** where I worked on **real-world projects** and gained practical experience in software testing.  
-Through **self-study** and hands-on work, I’ve developed strong skills in core areas of QA testing.  
-I enjoy exploring how products work, finding issues, and helping teams deliver **high-quality software**.  
+In today’s fast-paced software industry, teams need QA professionals who can **reduce time to market without compromising quality**, **find issues early and clearly explain them**, and **leverage automation to scale testing efforts**. That’s exactly what I bring:  
+- I deliver clear test documentation and practical bug reports that empower developers and reduce rework.  
+- I validate APIs, write SQL queries to check backend integrity, and ensure data flows correctly.  
+- I build maintainable Cypress automation frameworks to accelerate regression cycles and free up your team for higher-value testing.
+
+Explore my portfolio to see how I turn test cases into quality-driven results, and how I can help your team ship confidently, faster and smarter.  
+
 
 ---
 
