@@ -1,14 +1,22 @@
 # 🌟 QA Portfolio by Hajrudin Karajčić  
 
 Welcome to my **Quality Assurance Portfolio** —  
-Here I showcase my QA testing skills through **manual testing, API testing, database validation, and test automation** with Cypress.
+Hi, my name is **Hajrudin Karajčić**.  
+I have completed a **6-month QA course** where I worked on **real-world projects** and gained practical experience in software testing.  
+Through **self-study** and hands-on work, I’ve developed strong skills in core areas of QA testing. 
+I enjoy exploring how products work, finding issues, and helping teams deliver high-quality software.  
 
+
+## 🧠 QA Skills Demonstrated  
+
+✔ Writing and maintaining detailed test cases and reports  
+✔ Detecting, reproducing, and documenting bugs  
+✔ Validating APIs using Postman and JavaScript assertions  
+✔ Writing SQL queries for backend data validation  
+✔ Building maintainable Cypress automation frameworks  
+✔ Collaborating in QA processes with Agile methodology  
 ---
-## 💼 Experience & Skills  
-
-I have completed a **6-month intensive QA course**, where I gained strong practical experience. 
-Throughout the training, I worked on **real-world simulation projects** that included test documentation, bug reporting, and automation in professional QA workflows.  
- ### 
+## 💼 Tools & Skills  
  
 🧠 Technical Skills
 
@@ -104,12 +112,13 @@ Folder: **`/Cypress-Testing`**
 
 ---
 
-## 📈 Current Focus  
 
-I’m currently deepening my knowledge in:  
+### 🌱 Currently Learning  
+
+- **CI/CD integration** for automated QA pipelines  
+- **AI-powered testing** and intelligent bug detection tools  
 - Advanced **API automation** with Postman & Newman  
-- **Cypress** test optimization and custom commands  
-- Integrating QA processes into CI/CD pipelines  
+- Designing **custom Cypress commands** and reusable test flows  
 
 ---
 
