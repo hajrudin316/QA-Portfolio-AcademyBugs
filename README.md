@@ -107,20 +107,31 @@ I focused on end-to-end testing of the https://academybugs.com/ web application,
 
 ---
 
-### 🤖 Automation Testing (Cypress)
-**Folder:** `/Cypress-Testing`  
-- Automated tests on **SauceDemo** web app  
-- Applied **Page Object Model (POM)** for clean test structure  
-- Used **fixtures** for test data and **beforeEach hooks** for setup  
-- Covered **login**, **inventory**, **cart**, and **checkout** flows  
+## 🤖 Automation Testing (Cypress)
 
-📄 **Files:**  
-- [Cypress Test](./cypress/e2e/portfolio-work/tests.cy.js)
-- [POM](./cypress/PageObjectmodel/cartPage.js)
-- [POM](./cypress/PageObjectmodel/checkoutPage.js)
-- [POM](./cypress/PageObjectmodel/inventoryPage.js)
-- [POM](./cypress/PageObjectmodel/loginPage.js)
-- [FIXTURES](./cypress/fixtures/example.json)
+This section presents my automation project using **Cypress**, built on the https://www.saucedemo.com/ web application.  
+The goal was to automate the entire eCommerce flow — from login to checkout — using modern testing principles and maintainable test architecture.
+
+### 🧩 Key Activities
+- Automated end-to-end tests for **SauceDemo** web app  
+- Implemented **Page Object Model (POM)** for clean and reusable test structure  
+- Utilized **fixtures** for managing test data  
+- Applied **beforeEach hooks** for test setup and environment preparation  
+- Covered critical user flows: **Login**, **Inventory**, **Cart**, and **Checkout**
+
+--- 
+
+#### 🧪 Cypress Test Suite  
+- [Main Test File](./cypress/e2e/portfolio-work/tests.cy.js)
+
+#### 🧱 Page Object Models (POM)  
+- [Login Page](./cypress/PageObjectmodel/loginPage.js)  
+- [Inventory Page](./cypress/PageObjectmodel/inventoryPage.js)  
+- [Cart Page](./cypress/PageObjectmodel/cartPage.js)  
+- [Checkout Page](./cypress/PageObjectmodel/checkoutPage.js)  
+
+#### 🧰 Fixtures  
+- [Test Data - example.json](./cypress/fixtures/example.json)
 
 ---
 
