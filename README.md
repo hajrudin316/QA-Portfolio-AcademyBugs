@@ -1,14 +1,21 @@
 # 🌟 QA Portfolio by **Hajrudin Karajčić**
 
-Hello, I’m **Hajrudin Karajčić** — a motivated QA Engineer who brings **precision, analytical mindset and a relentless focus on quality**.  
-With a 6-month immersive QA training backed by hands-on projects, I offer real-world testing skills in manual testing, API automation, database validation and UI automation with Cypress.
+Hi there 👋 — I’m Hajrudin Karajčić, a dedicated Junior QA Engineer who’s ready to work hard, learn fast, and grow within a strong team.
+- Looking for an opportunity to prove myself, not just looking for a job
+- Ready to start with any position or rate that allows me to learn from professionals, contribute value early, and keep improving every day.
+After completing a 6-month intensive QA course, I’ve gained hands-on experience testing real projects and building a solid foundation in QA
 
-In today’s fast-paced software industry, teams need QA professionals who can **reduce time to market without compromising quality**, **find issues early and clearly explain them**, and **leverage automation to scale testing efforts**. That’s exactly what I bring:  
-- I deliver clear test documentation and practical bug reports that empower developers and reduce rework.  
-- I validate APIs, write SQL queries to check backend integrity, and ensure data flows correctly.  
-- I build maintainable Cypress automation frameworks to accelerate regression cycles and free up your team for higher-value testing.
+Here’s what I bring to your team:
 
-Explore my portfolio to see how I turn test cases into quality-driven results, and how I can help your team ship confidently, faster and smarter.  
+🧩 Clear, structured test documentation and detailed bug reports that make developers’ work easier.
+
+🔗 Strong understanding of APIs and databases — validating data flow and business logic.
+
+⚙️ Clean, maintainable Cypress automation frameworks that speed up regression testing.
+
+🤝 Practical knowledge of Agile workflows, collaboration in Jira, and test management with Qase.io.
+
+Explore my portfolio below to see my projects, testing process, and how I turn bugs into better software.
 
 
 ---
@@ -25,9 +32,8 @@ Explore my portfolio to see how I turn test cases into quality-driven results, a
 ---
 
 ### 🧠 Technical Skills
-
-REST API testing  
-ISTQB Foundation Level knowledge  
+Automation testing
+REST API testing    
 Basic knowledge about software development models (Waterfall, V-Model, Iterative, Incremental, Agile)  
 Software testing  
 Creating test cases  
@@ -36,7 +42,7 @@ Creating bug reports
 Basic JavaScript (for automation and API testing)  
 Basic HTML and CSS  
 Creating documentation  
-Experience with testing SaaS web applications  
+Experience with testing Ecommerce web applications  
 Performing smoke tests  
 Scrum workflow  
 
@@ -147,7 +153,6 @@ The goal was to automate the entire eCommerce flow — from login to checkout �
 
 📧 **Email:** hajrudinkarajcic@gmail.com  
 💼 **LinkedIn:** [Hajrudin-Karajcic](https://www.linkedin.com/in/hajrudin-karaj%C4%8Di%C4%87/)  
-🐙 **GitHub:** [github.com/HajrudinKarajcic](https://github.com/HajrudinKarajcic)  
 🌍 **Location:** Bosnia and Herzegovina  
 🕓 **Availability:** Open to remote and hybrid QA opportunities
  
