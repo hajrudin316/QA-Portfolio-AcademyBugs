@@ -68,9 +68,7 @@ I focused on end-to-end testing of the https://academybugs.com/ web application,
 - Reported **functional and UI bugs** in **Jira**  
 - Organized and tracked all **test documentation** in **Qase.io**  
 
----
-
-### 📄 Documentation  
+---  
 
 #### 🧾 Test Cases  
 - [Checkout Page](./TEST-CASES/checkout_page.pdf)  
