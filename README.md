@@ -115,7 +115,12 @@ I focused on end-to-end testing of the https://academybugs.com/ web application,
 - Covered **login**, **inventory**, **cart**, and **checkout** flows  
 
 📄 **Files:**  
-- [Cypress Test](./cypress/e2e/portfolio-work/tests.cy.js)  
+- [Cypress Test](./cypress/e2e/portfolio-work/tests.cy.js)
+- [POM](./cypress/PageObjectmodel/cartPage.js)
+- [POM](./cypress/PageObjectmodel/checkoutPage.js)
+- [POM](./cypress/PageObjectmodel/inventoryPage.js)
+- [POM](./cypress/PageObjectmodel/loginPage.js)
+- [FIXTURES](./cypress/fixtures/example.json)
 
 ---
 
