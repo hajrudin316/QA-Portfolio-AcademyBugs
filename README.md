@@ -1,6 +1,6 @@
 # 🌟 QA Portfolio by **Hajrudin Karajčić**
 # Hi there 👋
-I’m **Hajrudin Karajčić**, a dedicated **Junior QA Engineer** who’s ready to **work hard**, **learn fast**, and **grow** within a **strong team**.
+I’m **Hajrudin Karajčić**, a dedicated **Junior QA Engineer** who’s ready to **work hard**, **learn fast**, and **grow** within a **strong team**
 - Looking for an **opportunity to prove myself**, not just for a job.  
 - Ready to start with **any position or rate** that allows me to **learn from professionals**, **contribute value early**, and **keep improving every day**.
 
