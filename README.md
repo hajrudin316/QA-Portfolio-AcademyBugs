@@ -26,32 +26,19 @@ Explore my **portfolio** below to see my **projects**, **testing process**, and 
 
 
 ---
+## 🧠 QA & Technical Skills
 
-## 🧠 QA Skills Demonstrated
-
-✔ Writing and maintaining detailed **test cases** and **reports**  
+✔ Writing and maintaining detailed **test cases** and **bug reports**  
 ✔ Detecting, reproducing, and documenting **bugs**  
 ✔ Validating **APIs** using **Postman** and **JavaScript** assertions  
 ✔ Writing **SQL queries** for backend data validation  
 ✔ Building maintainable **Cypress automation frameworks**  
-✔ Collaborating in QA processes using **Agile** methodology  
+✔ Automation testing of **Ecommerce web applications**  
+✔ Collaborating in QA processes using **Agile/Scrum methodology**  
+✔ Basic knowledge of **software development models** (Waterfall, V-Model, Iterative, Incremental)  
+✔ Basic **JavaScript, HTML, CSS** for testing and automation  
+✔ Performing **smoke tests** and creating **QA documentation**
 
----
-
-### 🧠 Technical Skills
-Automation testing
-REST API testing    
-Basic knowledge about software development models (Waterfall, V-Model, Iterative, Incremental, Agile)  
-Software testing  
-Creating test cases  
-Reporting bugs  
-Creating bug reports  
-Basic JavaScript (for automation and API testing)  
-Basic HTML and CSS  
-Creating documentation  
-Experience with testing Ecommerce web applications  
-Performing smoke tests  
-Scrum workflow  
 
 
 ---
