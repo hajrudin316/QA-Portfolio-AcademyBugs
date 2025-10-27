@@ -58,20 +58,33 @@ Scrum workflow
 
 ## 💼 Experience & Learning Projects
 
-### 🧪 Manual Testing
-**Folder:** `/Manual-Testing`  
-- Tested **AcademyBugs.com** site  
-- Created **test cases** for product catalog, cart, and checkout flow  
-- Reported **functional and visual bugs** in **Jira**  
-- Organized all **test documentation** in **Qase.io**  
+## 🧪 Manual Testing   
+This section showcases my manual testing work completed during QA training and self-study projects.  
+I focused on end-to-end testing of the https://academybugs.com/ web application, covering core eCommerce flows and ensuring high-quality functionality.  
 
-📄 **Files:**  
-- [Test Cases]
-- [Checkout Page](./TEST-CASES/checkout_page.pdf)
-- [Product Page](./TEST-CASES/product_page.pdf.pdf)
-- [Shopping Cart](./TEST-CASES/shopping_cart.pdf)
-- [Jira workflow](./BUG-REPORT/QA_Portfolio_AcademyBugs.pdf)
-- [Bug Reports](./BUG-REPORT/bug_reports.pdf.pdf)
+### 🧩 Key Activities  
+- Tested **AcademyBugs.com** site functionality and user flows  
+- Created detailed **test cases** for product catalog, cart, and checkout modules  
+- Reported **functional and UI bugs** in **Jira**  
+- Organized and tracked all **test documentation** in **Qase.io**  
+
+---
+
+### 📄 Documentation  
+
+#### 🧾 Test Cases  
+- [Checkout Page](./TEST-CASES/checkout_page.pdf)  
+- [Product Page](./TEST-CASES/product_page.pdf)  
+- [Shopping Cart](./TEST-CASES/shopping_cart.pdf)  
+
+#### 🐞 Bug Reports  
+- [Bug Reports](./BUG-REPORT/bug_reports.pdf)  
+- [Jira Workflow Overview](./BUG-REPORT/QA_Portfolio_AcademyBugs.pdf)  
+
+---
+
+✅ *Each document demonstrates real-world QA workflows — from test design to execution, issue tracking, and reporting.*
+
 
  
 
