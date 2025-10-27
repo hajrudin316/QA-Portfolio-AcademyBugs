@@ -1,12 +1,11 @@
 # 🌟 QA Portfolio by **Hajrudin Karajčić**
 # Hi there 👋
 I’m **Hajrudin Karajčić**, a dedicated **Junior QA Engineer** who’s ready to **work hard**, **learn fast**, and **grow** within a **strong team**.
--Looking for an **opportunity to prove myself**, not just for a job.  
+--Looking for an **opportunity to prove myself**, not just for a job.  
 -Ready to start with **any position or rate** that allows me to **learn from professionals**, **contribute value early**, and **keep improving every day**.
 
 After completing a **6-month intensive QA course**, I’ve gained **hands-on experience** testing **real projects** and building a **solid foundation in QA**.
 Here’s what I bring to your team:
----
 
 ### 🧩 Test Documentation
 **Clear, structured test documentation** and **detailed bug reports** that make developers’ work easier.
@@ -20,7 +19,6 @@ Here’s what I bring to your team:
 ### 🤝 Agile & Collaboration
 **Practical knowledge of Agile workflows**, **collaboration in Jira**, and **test management with Qase.io**.
 
----
 Explore my **portfolio** below to see my **projects**, **testing process**, and how I **turn bugs into better software**.
 
 
