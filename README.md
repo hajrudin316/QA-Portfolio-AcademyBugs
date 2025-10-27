@@ -92,7 +92,7 @@ I focused on end-to-end testing of the https://academybugs.com/ web application,
 - Wrote multiple **Postman tests** validating status codes, data structure, and logic  
 
 📄 **Files:**  
-- Postman Project Report  
+- [Postman Project Report](./POSTMAN/Postman.pdf.pdf)  
 
 ---
 
