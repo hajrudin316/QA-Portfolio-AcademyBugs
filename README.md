@@ -4,7 +4,7 @@ I’m **Hajrudin Karajčić**, a dedicated **Junior QA Engineer** who’s ready 
 - Looking for an **opportunity to prove myself**, not just for a job.  
 - Ready to start with **any position or rate** that allows me to **learn from professionals**, **contribute value early**, and **keep improving every day**.
 
-After completing a **6-month intensive QA course**, I’ve gained **hands-on experience** testing **real projects** and building a **solid foundation in QA**.
+After completing a **6-month intensive QA course**, I’ve gained **hands-on experience** testing **real projects**.
 Here’s what I bring to your team:
 
 ## 🧩 Test Documentation
