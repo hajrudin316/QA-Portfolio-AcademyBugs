@@ -9,16 +9,17 @@ After completing a **6-month intensive QA course**, I’ve gained **hands-on exp
 Here’s what I bring to your team:
 
 ## 🧩 Test Documentation
-**Clear, structured test documentation** and **detailed bug reports** that make developers’ work easier.
+Clear, structured test documentation and detailed bug reports that make developers’ work easier.
 
-### 🔗 APIs & Databases
-**Strong understanding of APIs and databases** — **validating data flow** and **business logic**.
+## 🔗 APIs & Databases
+Strong understanding of APIs and databases — validating data flow and business logic.
 
-### ⚙️ Automation
-**Clean, maintainable Cypress automation frameworks** that **speed up regression testing**.
+## ⚙️ Automation
+Clean, maintainable Cypress automation frameworks that speed up regression testing.
 
-### 🤝 Agile & Collaboration
-**Practical knowledge of Agile workflows**, **collaboration in Jira**, and **test management with Qase.io**.
+## 🤝 Agile & Collaboration
+Practical knowledge of Agile workflows, collaboration in Jira, and test management with Qase.io.
+
 
 Explore my **portfolio** below to see my **projects**, **testing process**, and how I **turn bugs into better software**.
 
