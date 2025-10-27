@@ -70,8 +70,9 @@ Scrum workflow
 - [Checkout Page](./TEST-CASES/checkout_page.pdf)
 - [Product Page](./TEST-CASES/product_page.pdf.pdf)
 - [Shopping Cart](./TEST-CASES/shopping_cart.pdf)
-- [Bug Reports](./Manual-Testing/Bug-Reports.pdf) 
-- Bug Reports  
+- [Bug Reports](./BUG-REPORT/QA_Portfolio_AcademyBugs.pdf)
+- (./BUG-REPORT/bug_reports.pdf.pdf)
+ 
 
 ---
 
