@@ -66,7 +66,10 @@ Scrum workflow
 - Organized all **test documentation** in **Qase.io**  
 
 📄 **Files:**  
-- [Test Cases](./Manual-Testing/Test-Cases.pdf)  
+- [Test Cases]
+- [Checkout Page](./TEST-CASES/checkout_page.pdf)
+- [Product Page](./TEST-CASES/product_page.pdf.pdf)
+- [Shopping Cart](./TEST-CASES/shopping_cart.pdf)
 - [Bug Reports](./Manual-Testing/Bug-Reports.pdf) 
 - Bug Reports  
 
