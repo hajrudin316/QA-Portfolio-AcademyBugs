@@ -7,7 +7,7 @@ I’m **Hajrudin Karajčić**, a dedicated **Junior QA Engineer** who’s ready 
 After completing a **6-month intensive QA course**, I’ve gained **hands-on experience** testing **real projects** and building a **solid foundation in QA**.
 Here’s what I bring to your team:
 
-### 🧩 Test Documentation
+## 🧩 Test Documentation
 **Clear, structured test documentation** and **detailed bug reports** that make developers’ work easier.
 
 ### 🔗 APIs & Databases
