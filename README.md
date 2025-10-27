@@ -146,7 +146,7 @@ The goal was to automate the entire eCommerce flow — from login to checkout �
 ## 📫 Contact
 
 📧 **Email:** hajrudinkarajcic@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/hajrudin-karajcic](https://linkedin.com/in/hajrudin-karajcic)  
+💼 **LinkedIn:** [linkedin.com/in/hajrudin-karajcic](https://www.linkedin.com/in/hajrudin-karaj%C4%8Di%C4%87/)  
 🐙 **GitHub:** [github.com/HajrudinKarajcic](https://github.com/HajrudinKarajcic)  
 🌍 **Location:** Bosnia and Herzegovina  
 🕓 **Availability:** Open to remote and hybrid QA opportunities
