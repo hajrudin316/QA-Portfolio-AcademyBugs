@@ -103,7 +103,7 @@ I focused on end-to-end testing of the https://academybugs.com/ web application,
 - Focused on validating relationships between **orders**, **customers**, and **products**  
 
 📄 **Files:**  
-- SQL Queries & Project Report  
+- [SQL Queries & Project Report](./DATABASES/SQL_Northwind_Project_v2.pdf)  
 
 ---
 
