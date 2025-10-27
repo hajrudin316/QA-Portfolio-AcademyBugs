@@ -115,7 +115,7 @@ I focused on end-to-end testing of the https://academybugs.com/ web application,
 - Covered **login**, **inventory**, **cart**, and **checkout** flows  
 
 📄 **Files:**  
-- Cypress Test Suite  
+- [Cypress Test](./cypress/e2e/portfolio-work/tests.cy.js)  
 
 ---
 
