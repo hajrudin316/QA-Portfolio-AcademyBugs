@@ -56,7 +56,7 @@ Scrum workflow
 
 ---
 
-## 💼 Experience & Learning Projects
+## 💼 Experience & Samples
 
 ## 🧪 Manual Testing   
 This section showcases my manual testing work completed during QA training and self-study projects.  
@@ -82,10 +82,6 @@ I focused on end-to-end testing of the https://academybugs.com/ web application,
 - [Jira Workflow Overview](./BUG-REPORT/QA_Portfolio_AcademyBugs.pdf)  
 
 ---
-
-✅ *Each document demonstrates real-world QA workflows — from test design to execution, issue tracking, and reporting.*
-
-
  
 
 ---
